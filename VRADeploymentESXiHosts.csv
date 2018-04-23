@@ -1,0 +1,4 @@
+ESXiHostName,DatastoreName,PortGroupName,VRAGroupName,MemoryInGB,DefaultGateway,SubnetMask,VRAIPAddress
+Enter Host Name,Enter Datastore Name,Enter Virtual Network,Enter VRA Group,Enter Memory ,Enter Default Gateway,Enter Subnet Mask,Enter Static IP Address
+Enter Host Name,Enter Datastore Name,Enter Virtual Network,Enter VRA Group,Enter Memory ,Enter Default Gateway,Enter Subnet Mask,Enter Static IP Address
+Enter Host Name,Enter Datastore Name,Enter Virtual Network,Enter VRA Group,Enter Memory ,Enter Default Gateway,Enter Subnet Mask,Enter Static IP Address
