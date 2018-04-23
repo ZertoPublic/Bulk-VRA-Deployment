@@ -25,5 +25,5 @@ Script Requirements:
 # Running Script 
 Once the necessary requirements have been completed select an appropriate host to run the script from. To run the script type the following:
 
-.\BulkVRADeployment-VMware.ps1
+.\BulkVRADeployment.ps1
 
