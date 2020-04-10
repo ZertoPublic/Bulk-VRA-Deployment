@@ -6,7 +6,7 @@ In no event shall Zerto, its authors or anyone else involved in the creation, pr
 # Bulk-VRA-Deployment
 This script automates the deployments of VRAs based on the hosts in the specified CSV file using PowerCLI and the Zerto API. The CSV is required to be filled out before running the script so that the script can utilize the necessary vCenter resources when creating the VRAs. Please note this script is intended to be used only with ESXi hosts 5.5 and newer. The script doesn't call for a host root password and is instead using the Zerto VRA VIB deployment that was introduced in ZVR 4.5. 
 
-# Prerequisities 
+# Prerequisites 
 Environment Requirements:
 - PowerShell 5.0 
 - VMware PowerCLI 6.0+
