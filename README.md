@@ -1,3 +1,7 @@
+# Archived
+This repo is being archived as it has been superceeded by a newer version of the script that uses the Zerto REST API. 
+You can find the new script here: [Latest VRA Bulk Deploy Script](https://github.com/ZertoPublic/Zerto-Site-Deployment/tree/master/API-Examples/BulkVRADeployment)
+
 # Legal Disclaimer
 This script is an example script and is not supported under any Zerto support program or service. The author and Zerto further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose.
 
